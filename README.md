@@ -1,4 +1,4 @@
-### Estudiante de Ingeniería de Sistemas | Desarrollo de Software | Sistemas Distribuidos | Inteligencia Artificial
+# Estudiante de Ingeniería de Sistemas | Desarrollo de Software | Sistemas Distribuidos | Inteligencia Artificial
 
 ---
 
@@ -16,9 +16,9 @@ Me interesa especialmente comprender cómo diseñar sistemas escalables, manteni
 
 ---
 
-# Tecnologías
+## Tecnologías
 
-## Lenguajes
+### Lenguajes
 
 - ☕ Java
 - 🐍 Python
@@ -29,7 +29,7 @@ Me interesa especialmente comprender cómo diseñar sistemas escalables, manteni
 
 ---
 
-# Backend
+## Backend
 
 ### Java · Spring Boot · REST API · Postman
 
@@ -57,7 +57,7 @@ Actualmente estoy profundizando en:
 
 ---
 
-# Frontend & Mobile
+## Frontend & Mobile
 
 ### Angular · Ionic · JavaScript · HTML · CSS
 
@@ -77,7 +77,7 @@ He trabajado en el desarrollo de interfaces utilizando:
 
 ---
 
-# Tecnologías principales
+## Tecnologías principales
 
 ```text
 Frontend
@@ -101,9 +101,9 @@ DDD + Arquitectura Hexagonal + Microservicios
 
 ---
 
-# Bases de Datos
+## Bases de Datos
 
-## PostgreSQL · MySQL · MongoDB
+### PostgreSQL · MySQL · MongoDB
 
 Tengo conocimientos académicos en:
 - Diseño de bases de datos.
@@ -120,7 +120,7 @@ Tengo conocimientos académicos en:
 
 ---
 
-# Arquitectura de Software
+## Arquitectura de Software
 
 Actualmente estoy fortaleciendo conocimientos en:
 - Arquitectura por capas.
@@ -138,7 +138,7 @@ Actualmente estoy fortaleciendo conocimientos en:
 
 ---
 
-# Sistemas Distribuidos
+## Sistemas Distribuidos
 
 Actualmente estoy trabajando en conceptos relacionados con:
 - Sistemas distribuidos.
@@ -161,9 +161,9 @@ Actualmente estoy trabajando en conceptos relacionados con:
 
 ---
 
-# DevOps & Automatización
+## DevOps & Automatización
 
-## Docker · Git · GitHub · Jenkins · n8n
+### Docker · Git · GitHub · Jenkins · n8n
 
 Tengo experiencia académica trabajando con:
 - Docker.
@@ -184,9 +184,9 @@ Utilizo Git y GitHub para:
 - Gestión de historias de usuario.
 ---
 
-# APIs & Herramientas
+## APIs & Herramientas
 
-## Postman · REST · JSON
+### Postman · REST · JSON
 
 He trabajado con APIs REST para:
 
@@ -200,7 +200,7 @@ He trabajado con APIs REST para:
 
 ---
 
-# Inteligencia Artificial
+## Inteligencia Artificial
 
 Tengo interés en la aplicación de inteligencia artificial al desarrollo de software y actualmente estoy explorando su integración en proyectos reales.
 
@@ -215,7 +215,7 @@ Me interesa continuar aprendiendo sobre:
 
 ---
 
-# Investigación
+# #Investigación
 
 También tengo interés en proyectos académicos y de investigación relacionados con:
 
@@ -230,7 +230,7 @@ También tengo interés en proyectos académicos y de investigación relacionado
 
 ---
 
-# Herramientas
+## Herramientas
 
 | Herramienta      | Uso                            |
 | ---------------- | ------------------------------ |
@@ -249,7 +249,7 @@ También tengo interés en proyectos académicos y de investigación relacionado
 
 ---
 
-# Actualmente aprendiendo
+## Actualmente aprendiendo
 
 Actualmente estoy enfocando mi aprendizaje en:
 
@@ -269,7 +269,7 @@ Actualmente estoy enfocando mi aprendizaje en:
 
 ---
 
-# Áreas de interés
+## Áreas de interés
 
 Mis principales áreas de interés son:
 
@@ -287,9 +287,9 @@ Mis principales áreas de interés son:
 
 ---
 
-# Habilidades
+## Habilidades
 
-## Técnicas
+### Técnicas
 
 - Desarrollo backend.
 - Desarrollo frontend.
@@ -317,9 +317,9 @@ Mis principales áreas de interés son:
 
 ---
 
-# Formación
+## Formación
 
-## Ingeniería de Sistemas
+### Ingeniería de Sistemas
 
 Actualmente me encuentro fortaleciendo mis conocimientos mediante proyectos académicos y prácticos relacionados con:
 
@@ -334,7 +334,7 @@ Actualmente me encuentro fortaleciendo mis conocimientos mediante proyectos acad
 
 ---
 
-# Idiomas
+## Idiomas
 
 | Idioma       | Nivel     |
 | ------------ | --------- |
@@ -343,7 +343,7 @@ Actualmente me encuentro fortaleciendo mis conocimientos mediante proyectos acad
 
 ---
 
-# Contacto
+## Contacto
 
 - **GitHub:** [https://github.com/BondrewdXD](https://github.com/BondrewdXD)
 - **LinkedIn:** [TU LINKEDIN]
