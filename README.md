@@ -346,4 +346,3 @@ Actualmente me encuentro fortaleciendo mis conocimientos mediante proyectos acad
 ## Contacto
 
 - **GitHub:** [https://github.com/BondrewdXD](https://github.com/BondrewdXD)
-- **LinkedIn:** [TU LINKEDIN]
